@@ -72,8 +72,6 @@ This project is one example of that approach.
 ### Recipe Input
 
 
-![Recipe Writer](<img width="1235" height="578" alt="image" src="https://github.com/user-attachments/assets/c0d1881b-5466-43a1-a884-3eb7239edc16" />
-)
 
 ### Generated Content
 
