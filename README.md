@@ -6,7 +6,8 @@ The goal was simple: I wanted to turn my raw recipe notes into structured, educa
 
 ## Demo
 
-[Watch the demo](./demo/demo-video.mp4)
+https://github.com/user-attachments/assets/2958eba2-0a2d-4d4a-877c-cfdff6b3e693
+
 
 ## What It Does
 
