@@ -1,5 +1,7 @@
 # MozandMiel-Blog-Writer-Demo
 
+###Source Code Available Upon Request
+
 An AI-powered recipe writing system I built for my food business, Moz&Miel.
 
 The goal was simple: I wanted to turn my raw recipe notes into structured, educational blog content without manually rebuilding the same sections every time.
