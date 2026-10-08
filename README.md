@@ -85,7 +85,10 @@ This project is one example of that approach.
 
 ### WordPress Posts Page After Generation
 
-![WordPress Draft](./screenshots/wordpress-draft.png)
+<img width="1342" height="783" alt="image" src="https://github.com/user-attachments/assets/22be34a6-6d62-45ca-9bac-d18d5c78ba75" />
+
 
 ### Generated Post, Completed
+
+<img width="1348" height="740" alt="image" src="https://github.com/user-attachments/assets/9a9fd2a1-a53d-48c0-80d4-e58235357915" />
 
