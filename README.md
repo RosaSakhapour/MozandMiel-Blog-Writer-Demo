@@ -1,6 +1,6 @@
 # MozandMiel-Blog-Writer-Demo
 
-### Source Code Available Upon Request
+#### (Source Code Available Upon Request)
 
 An AI-powered recipe writing system I built for my food business, Moz&Miel.
 
