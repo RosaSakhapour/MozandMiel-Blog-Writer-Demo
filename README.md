@@ -69,6 +69,11 @@ This project is one example of that approach.
 
 ## Screenshots
 
+### WordPress Posts Page Before Generation
+
+<img width="1348" height="748" alt="image" src="https://github.com/user-attachments/assets/76677402-018a-496d-b810-041885618724" />
+
+
 ### Recipe Input
 
 <img width="1235" height="578" alt="image" src="https://github.com/user-attachments/assets/6ddfb0e4-d216-44f0-93a8-11c644866f7a" />
@@ -76,9 +81,11 @@ This project is one example of that approach.
 
 ### Generated Content
 
-![Generated Blog Post](./screenshots/generated-blog-post.png)
+<img width="1261" height="638" alt="image" src="https://github.com/user-attachments/assets/0b2a14a0-fea6-4fcf-9ea1-6b6bf471f94e" />
 
-### WordPress Integration
+### WordPress Posts Page After Generation
 
 ![WordPress Draft](./screenshots/wordpress-draft.png)
+
+### Generated Post, Completed
 
